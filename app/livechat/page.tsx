@@ -143,7 +143,7 @@ export default function LiveChat() {
             backgroundColor: '#128c7e',
             color: 'white',
             border: 'none',
-            padding: '8px 16px',
+            padding: '8px 16px',                                  
             borderRadius: '0 20px 20px 0',
             cursor: 'pointer',
             fontSize: '14px',
