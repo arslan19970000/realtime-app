@@ -69,7 +69,7 @@ export default function LiveChat() {
         marginBottom: '16px',
         color: '#333',
         textAlign: 'center'
-      }}>💬 Live Chat</h2>
+      }}>💬 whatapp Chat</h2>
       
       <div style={{
         border: '1px solid #e2e8f0',
